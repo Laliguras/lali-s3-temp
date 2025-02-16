@@ -1,0 +1,255 @@
+[{
+  "_id": {
+    "$oid": "67ac2de5fc80ae1815b07081"
+  },
+  "tourName": "Mardi Himal Via Landruk",
+  "tourCreator": "Roshan karki",
+  "disabled": false,
+  "routes": [
+    {
+      "routeName": "beginner",
+      "legs": [
+        {
+          "distance": "15.9 Km",
+          "elevation": "↗ 2,052 m  ↘ 1,339 m",
+          "startElevation": "(1,723 m)",
+          "endElevation": " (2,439 m)",
+          "duration": "7hrs 30min",
+          "legID": "Leg 1",
+          "legLocations": [
+            "Kande",
+            "Goldanda",
+            "Australian camp",
+            "Pothana",
+            "Pitam Deurali",
+            "Bherikharka",
+            "Tolka",
+            "Landruk",
+            "Forest Camp"
+          ],
+          "_id": {
+            "$oid": "67ac2de5fc80ae1815b07083"
+          }
+        },
+        {
+          "distance": "7.9 Km",
+          "elevation": "↗ 1,357 m  ↘ 265 m",
+          "startElevation": " (2,439 m)",
+          "endElevation": " (3,532 m)",
+          "duration": "4hrs 48min",
+          "legID": "Leg 2",
+          "legLocations": [
+            "Landruk",
+            "Forest Camp",
+            "Rest Camp",
+            "Low Camp",
+            "Baadal Daanda",
+            "High Camp"
+          ],
+          "_id": {
+            "$oid": "67ac2de5fc80ae1815b07084"
+          }
+        },
+        {
+          "distance": "13.4 Km",
+          "elevation": "↗ 1,138 m  ↘ 1,384 m",
+          "startElevation": " (3,532 m)",
+          "endElevation": " (3,286 m)",
+          "duration": "7hrs 39min",
+          "legID": "Leg 3",
+          "legLocations": [
+            "High Camp",
+            "Mardi Himal BC (West)",
+            "High Camp",
+            "Baadal Daanda"
+          ],
+          "_id": {
+            "$oid": "67ac2de5fc80ae1815b07085"
+          }
+        },
+        {
+          "distance": "13.9 Km",
+          "elevation": "↗ 418 m  ↘ 2,511 m",
+          "startElevation": " (3,286 m)",
+          "endElevation": " (1,189 m)",
+          "duration": "5hrs 10min",
+          "legID": "Leg 4",
+          "legLocations": [
+            "Baadal Daanda",
+            "Low Camp",
+            "Sidhing/ Bhimjung",
+            "Kalimati",
+            "Lumre"
+          ],
+          "_id": {
+            "$oid": "67ac2de5fc80ae1815b07086"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67ac2de5fc80ae1815b07082"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ac7bee95d19b008a73c666"
+  },
+  "tourName": "Mardi Himal Via Landruk",
+  "tourCreator": "Roshan karki",
+  "disabled": false,
+  "routes": [
+    {
+      "routeName": "advance",
+      "legs": [
+        {
+          "distance": "15.9 Km",
+          "elevation": "↗ 2,052 m  ↘ 1,339 m",
+          "startElevation": "(1,723 m)",
+          "endElevation": " (2,439 m)",
+          "duration": "6hrs 15min",
+          "legID": "Leg 1",
+          "legLocations": [
+            "Kande",
+            "Goldanda",
+            "Australian camp",
+            "Pothana",
+            "Pitam Deurali",
+            "Bherikharka",
+            "Tolka",
+            "Landruk",
+            "Forest Camp"
+          ],
+          "_id": {
+            "$oid": "67ac7bee95d19b008a73c668"
+          }
+        },
+        {
+          "distance": "7.9 Km",
+          "elevation": "↗ 1,357 m  ↘ 265 m",
+          "startElevation": " (2,439 m)",
+          "endElevation": " (3,532 m)",
+          "duration": "4hrs 0min",
+          "legID": "Leg 2",
+          "legLocations": [
+            "Forest Camp",
+            "Rest Camp",
+            "Low Camp",
+            "Baadal Daanda",
+            "High Camp"
+          ],
+          "_id": {
+            "$oid": "67ac7bee95d19b008a73c669"
+          }
+        },
+        {
+          "distance": "13.4 Km",
+          "elevation": "↗ 1,138 m  ↘ 1,384 m",
+          "startElevation": " (3,532 m)",
+          "endElevation": " (3,286 m)",
+          "duration": "6hrs 22min",
+          "legID": "Leg 3",
+          "legLocations": [
+            "High Camp",
+            "Mardi Himal BC (West)",
+            "High Camp",
+            "Baadal Daanda"
+          ],
+          "_id": {
+            "$oid": "67ac7bee95d19b008a73c66a"
+          }
+        },
+        {
+          "distance": "13.9 Km",
+          "elevation": "↗ 418 m  ↘ 2,511 m",
+          "startElevation": " (3,286 m)",
+          "endElevation": " (1,189 m)",
+          "duration": "4hrs 18min",
+          "legID": "Leg 4",
+          "legLocations": [
+            "Baadal Daanda",
+            "Low Camp",
+            "Sidhing/ Bhimjung",
+            "Kalimati",
+            "Lumre"
+          ],
+          "_id": {
+            "$oid": "67ac7bee95d19b008a73c66b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67ac7bee95d19b008a73c667"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ac7d808a8a805f42be66cd"
+  },
+  "tourName": "Mardi Himal Via Landruk",
+  "tourCreator": "Roshan karki",
+  "disabled": false,
+  "routes": [
+    {
+      "routeName": "expert",
+      "legs": [
+        {
+          "distance": "23.7 Km",
+          "elevation": "↗ 3,034 m  ↘ 1,604 m",
+          "startElevation": "(1,723 m)",
+          "endElevation": " (3,532 m)",
+          "duration": "8hrs 12min",
+          "legID": "Leg 1",
+          "legLocations": [
+            "Kande",
+            "Goldanda",
+            "Australian camp",
+            "Pothana",
+            "Pitam Deurali",
+            "Bherikharka",
+            "Tolka",
+            "Landruk",
+            "Forest Camp",
+            "Rest Camp",
+            "Low Camp",
+            "Baadal Daanda",
+            "High Camp"
+          ],
+          "_id": {
+            "$oid": "67ac7d808a8a805f42be66cf"
+          }
+        },
+        {
+          "distance": "27.3 Km",
+          "elevation": "↗ 1,556 m  ↘ 3,895 m",
+          "startElevation": " (3,532 m)",
+          "endElevation": " (1,189 m)",
+          "duration": "8hrs 33min",
+          "legID": "Leg 2",
+          "legLocations": [
+            "High Camp",
+            "Mardi Himal BC (West)",
+            "High Camp",
+            "Baadal Daanda",
+            "Low Camp",
+            "Sidhing/ Bhimjung",
+            "Kalimati",
+            "Lumre"
+          ],
+          "_id": {
+            "$oid": "67ac7d808a8a805f42be66d0"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "67ac7d808a8a805f42be66ce"
+      }
+    }
+  ],
+  "__v": 0
+}]
